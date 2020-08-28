@@ -3,8 +3,9 @@ var num2 = 5;
 
 
 function wieksza(num1, num2) {
+    let wynik;
         if (num1 >= num2){
-         let wynik = num1;
+            wynik = num1;
             } else {
             wynik =num2;
         }
